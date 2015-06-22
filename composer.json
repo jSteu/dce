@@ -1,0 +1,12 @@
+{
+  "name": "arminvieweg/dce",
+  "type": "typo3-cms-extension",
+  "description": "DCE Fork",
+  "homepage": "http://typo3.org",
+  "version": "1.0.5",
+  "autoload": {
+    "psr-4": {
+      "ArminVieweg\\Dce\\": "Classes"
+    }
+  }
+}
